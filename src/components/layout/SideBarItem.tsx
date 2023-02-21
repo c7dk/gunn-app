@@ -1,4 +1,4 @@
-export default function SidebarItem(props) {
+export default function SidebarItem(props: any) {
   const { to, icon, children } = props
 
   return (
